@@ -1,13 +1,14 @@
 # JavaScript-
 JavaScript學習文件
 
-## A	associativity			關聯		
-	assynchronous			    非同步		
-	attempt				        嘗試		
-	approach			        途徑		
-	assign				        分配		
-	anonymous			        匿名		
-	alternative			      替代		
+## A	
+	associativity			關聯		
+	assynchronous			非同步		
+	attempt				嘗試		
+	approach			途徑		
+	assign				分配		
+	anonymous			匿名		
+	alternative			替代		
 	arguments			參數		
 	acts				介紹		
 	advantage			優點		
@@ -21,7 +22,8 @@ JavaScript學習文件
 	attach				連接		
 	accidentally			偶然		
 				
-B	bogged				中熄火		
+## B	
+	bogged				中熄火		
 	brace				支撐、大括號		
 	bind				捆綁		
 	borrowing			借用	borrow	
@@ -29,7 +31,8 @@ B	bogged				中熄火
 	binary				二進制		
 	bracket				括號		
 				
-C	chain				鏈		
+## C	
+	chain				鏈		
 	context				上下文		
 	conceptual			概念		
 	coerce				強迫	coercion	
@@ -53,7 +56,8 @@ C	chain				鏈
 	comparison			對照		
 	clever				聰明		
 				
-D	default				默認		
+## D	
+	default				默認		
 	dynamically			動態		
 	determine			確定		
 	decide				決定		
@@ -70,7 +74,8 @@ D	default				默認
 	decision			決定		
 	delimiter			分隔符		
 				
-E	execution			執行		
+## E	
+	execution			執行		
 	existence			存在		
 	expression			表達		
 	extremely			非常		
@@ -86,7 +91,8 @@ E	execution			執行
 	enhance				提高;增進		
 	equivalent			相當的		
 				
-F	fascinating			迷人		
+## F	
+	fascinating			迷人		
 	famous				著名		
 	figure				數字	figuring out	搞清楚
 	fundamental			基本的		
@@ -94,17 +100,20 @@ F	fascinating			迷人
 	flex				柔性		
 	formal				正式		
 				
-G	glance				一瞥		
+## G	
+	glance				一瞥		
 	grab			
 	gaps				差距		
 	gain				獲得		
 	generated			產生		
 				
-H	horizons			地平線、視野		
+## H	
+	horizons			地平線、視野		
 	hoist				提升		
 	honest				誠實		
 				
-I	invoke				調用		
+## I	
+	invoke				調用		
 	invocable			可調用		
 	inequality			不等式		
 	inspired			啟發		
@@ -129,14 +138,16 @@ I	invoke				調用
 	imitate				模擬		
 	instance			例子		
 				
-J				
+## J				
 				
-K				
-L	lexically			詞彙		
+## K				
+## L	
+	lexically			詞彙		
 	literal				文字	literal syntax	文字語法
 	lectures			講座		
 				
-M	methods				方法	method chaining	
+## M	
+	methods				方法	method chaining	
 	mutate				變異	Immutable	不可變
 	multiply			乘		
 	milliseconds			毫秒		
@@ -147,11 +158,13 @@ M	methods				方法	method chaining
 	mimic				摹擬		
 	module				模組		
 				
-N	neat				整齊		
+## N	
+	neat				整齊		
 	namespace			命名空間		
 	notation			註釋、符號		
 				
-O	options				選項	opt	選擇
+## O	
+	options				選項	opt	選擇
 	optional			自選		
 	operator			操作符		
 	overloading			超載		
@@ -163,7 +176,8 @@ O	options				選項	opt	選擇
 	odds				機率		
 	occasionally			偶爾	accidentally	
 				
-P	physically			實際		
+## P	
+	physically			實際		
 	precedence			優先權		
 	process				處理		
 	property			性能	property or method	屬性或方法
@@ -187,10 +201,12 @@ P	physically			實際
 	potentially			可能		
 	plenty				豐富		
 				
-Q	queue				隊列		
+## Q	
+	queue				隊列		
 				
 				
-R	reference			引用;參考		
+## R	
+	reference			引用;參考		
 	rendering			渲染、翻譯		
 	reuse				重用		
 	realize				明白	realizing	實現
@@ -199,7 +215,8 @@ R	reference			引用;參考
 	relied				仗著;依靠	rely on	依靠
 	representation			表示		
 				
-S	scope				範圍		
+## S	
+	scope				範圍		
 	scope chain			作用域鏈		
 	syntax				句法	syntactic sugar	語義修飾
 	stack				堆疊		
@@ -224,7 +241,8 @@ S	scope				範圍
 	structured			結構化		
 	split				分裂		
 				
-T	topics				主題		
+## T	
+	topics				主題		
 	typically			通常		
 	trapped				被困		
 	trick				戲法		
@@ -234,19 +252,22 @@ T	topics				主題
 	treating			治療		
 	ternary				三進制		
 				
-U	usage				用法		
+## U	
+	usage				用法		
 	underscore			下劃線		
 	unfortunate			令人遺憾的		
 	ubiquitous			無處不在		
 	utilizing			利用		
 	ultimately			最終		
 				
-V	versus				與	VS	
+## V	
+	versus				與	VS	
 	verbose				詳細		
 	verbosity			贅言		
 	validator			驗證		
 				
-W	whitespace			空白		
+## W	
+	whitespace			空白		
 	weary				厭倦		
 	wrapping			包覆		
 				
