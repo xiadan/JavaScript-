@@ -271,6 +271,6 @@ JavaScript學習文件
 	weary					厭倦		
 	wrapping				包覆		
 				
-X				
-Y				
-Z				
+## X				
+## Y				
+## Z				
