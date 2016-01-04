@@ -20,7 +20,8 @@ JavaScript學習文件
 	alias					別名;別號		
 	ability to				有能力		
 	attach					連接		
-	accidentally			偶然		
+	accidentally			偶然	
+	appropriately			適當
 				
 ## B	
 	bogged					中熄火		
@@ -83,13 +84,14 @@ JavaScript學習文件
 	extraordinarily			格外		
 	exact					精確		
 	especially				尤其是		
-	explain					說明		
+	explain					說明	explanatory		
 	efficiency				效率		
 	explicitly				明確地		
 	element					元件		
 	examine					檢查	examining	
 	enhance					提高;增進		
-	equivalent				相當的		
+	equivalent				相當的
+	encapsulating				封裝
 				
 ## F	
 	fascinating				迷人		
@@ -131,12 +133,13 @@ JavaScript學習文件
 	interface				介面		
 	individually			個別地		
 	instantly				即刻		
-	initial					初始	initialized	
+	initial					初始	initialized		initially
 	intimidating			嚇人		
 	issues					事項		
 	internally				內部		
 	imitate					模擬		
-	instance				例子		
+	instance				例子
+	interpret 				譯
 				
 ## J				
 				
@@ -206,7 +209,7 @@ JavaScript學習文件
 				
 				
 ## R	
-	reference				引用;參考		
+	reference				引用;參考		reference the variable	引用變量		
 	rendering				渲染、翻譯		
 	reuse					重用		
 	realize					明白	realizing	實現
@@ -239,7 +242,8 @@ JavaScript學習文件
 	strict					嚴格		
 	solve					解決		
 	structured				結構化		
-	split					分裂		
+	split					分裂
+	slick					華而不實的	terse(相反）
 				
 ## T	
 	topics					主題		
@@ -250,7 +254,9 @@ JavaScript學習文件
 	terrific				了不起		
 	track down				追查		
 	treating				治療		
-	ternary					三進制		
+	ternary					三進制	
+	terse					簡潔
+	tips					技巧
 				
 ## U	
 	usage					用法		
